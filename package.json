@@ -1,0 +1,15 @@
+{
+  "name": "nodeprework",
+  "version": "1.0.0",
+  "description": "node training pre work",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.69.0",
+    "yargs": "^4.2.0"
+  }
+}
