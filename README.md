@@ -13,5 +13,5 @@ This prework has 2 servers running in two different ports.
 - [x] Does your app log request to stdout or save it properly to a file when the log argument is given?
 - [x] Did you successfully push your code to github? Can you see the code on github?
 
-![codepath_new.gif](https://cloud.githubusercontent.com/assets/3333982/13721847/03e120b6-e7e8-11e5-8fa6-76ed2ae17f7f.gif)
+![codepath_new.gif]
 
